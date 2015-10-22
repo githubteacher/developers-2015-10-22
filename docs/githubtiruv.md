@@ -6,4 +6,4 @@
 **Role:** Student
 
 
-**Purpose:** Learn about GitHub branch and pull requests
+**Objective:** Learn about GitHub branch and pull requests
