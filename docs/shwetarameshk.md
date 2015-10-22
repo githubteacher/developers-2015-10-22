@@ -1,7 +1,7 @@
-# Shweta's Bio
+## Shweta's Bio
 
 *Name:* Shweta
 
-*Role:* GitHub Student
+*Title:* GitHub Student
 
 *Objective:* Learn about branches and merging into main branch
