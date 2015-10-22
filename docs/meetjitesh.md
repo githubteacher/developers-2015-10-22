@@ -1,7 +1,7 @@
 # meetjitesh bio
 
-** Name ** : Jitesh Marathe
+**Name** : Jitesh Marathe
 
-** Role ** : Systems Engineer
+**Role** : Systems Engineer
 
-** Goal ** : To learn Github 
+**Goal** : To learn Github 
