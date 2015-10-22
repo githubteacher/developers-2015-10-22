@@ -2,6 +2,6 @@
 
 ##Name## Kranthi
 
-##Title## Github Student
+##Title2## Github Student
 
 ##Goal## Master Github
