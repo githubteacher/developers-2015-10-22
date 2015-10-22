@@ -2,6 +2,6 @@
 
 **Name:** yiyi
 
-**Role:** github student
+**Title:** github student
 
 **Objective:**  learn git cmd, flow, tools, etc.
