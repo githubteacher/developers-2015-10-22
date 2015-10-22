@@ -1,5 +1,7 @@
 # Bio
 
 ##Name## Kranthi
-##Role## Github Student
+
+##Title2## Github Student
+
 ##Goal## Master Github
