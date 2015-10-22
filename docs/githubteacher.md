@@ -2,6 +2,6 @@
 
 **Name:**  GitHub Teacher
 
-**Role:**  Teacher
+**Title:**  Teacher
 
 **Objective:**  To learn more about workflow strategies
