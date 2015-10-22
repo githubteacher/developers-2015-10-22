@@ -1,5 +1,7 @@
 #Github Lucy Bio
 
 **Name:** Github Lucy
-**Role:** Student
+
+**Title:** Student
+
 **Objective:** To learn Github
