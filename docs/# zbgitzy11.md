@@ -2,6 +2,6 @@
 
 **Name:**  GitHub student zbgitzy11
 
-**Role:** Student
+**Title:** Student
 
 **Objective:** To Learn more about workflows
