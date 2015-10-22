@@ -2,6 +2,6 @@
 
 ** Name: **   GitHub Student etrinh1
 
-** Role: **   Student
+** Title: **   Student
 
 ** Objective: **  Learn GitHub
