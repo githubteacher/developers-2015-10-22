@@ -2,6 +2,6 @@
 
 **Name:** ebui
 
-**Role:** Student
+**Title:** Student
 
 **Objective:** To learn more about workflow strategies
