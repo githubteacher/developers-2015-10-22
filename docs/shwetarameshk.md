@@ -4,4 +4,4 @@
 
 *Role:* GitHub Student
 
-*Objective:* : Learn about branches and merging into main branch
+*Objective:* Learn about branches and merging into main branch
