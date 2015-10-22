@@ -1,6 +1,6 @@
 # Raribi Bio
 
-**Name:** GitHub student
+**Name:** GitHub student - Ross Aribi
 
 **Role:** Student
 
