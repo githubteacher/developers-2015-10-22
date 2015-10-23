@@ -6,4 +6,4 @@
 
 ** Objective: **  Learn GitHub
 
-** Favorite Vacation Spot: *** US, Canada, Thailand, China, Mexico, ... and  many more
+** Favorite Vacation Spot: *** US, Canada, Thailand, China, Mexico ... and  many more
