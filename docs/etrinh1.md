@@ -5,3 +5,5 @@
 ** Title: **   Student
 
 ** Objective: **  Learn GitHub
+
+** Favorite Vacation Spot: *** Thailand, HongKong, US, and many more...
