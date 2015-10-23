@@ -6,4 +6,4 @@
 
 **Objective:** To learn Github
 
-some changes
+some changes to be specific
