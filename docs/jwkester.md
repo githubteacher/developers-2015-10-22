@@ -9,4 +9,4 @@
 - Manage forks effectively
 - Manage pull requests effectively
 
-**Favorite Vacation Spot:** Berlin, Germany
+**Favorite Vacation Spot:** Berlin, Germany, not Berlin, Pennsylvania
