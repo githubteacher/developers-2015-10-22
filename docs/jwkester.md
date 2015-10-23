@@ -10,3 +10,5 @@
 - Manage pull requests effectively
 
 **Favorite Vacation Spot:** Berlin, Germany, not Berlin, Pennsylvania
+
+**Favorite Restaurant:** Flemings in San Diego, CA
