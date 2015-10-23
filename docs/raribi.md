@@ -6,4 +6,4 @@
 
 **Objective:** To learn more about github
 
-**Vacation:** None
+**Vacation:** None (fine, China)
