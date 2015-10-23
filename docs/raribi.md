@@ -9,3 +9,4 @@
 **Vacation:** None (fine, China)
 
 ** Favorite Restaurant:** McDonals (NOT) !!!
+** Last line:** Bye
