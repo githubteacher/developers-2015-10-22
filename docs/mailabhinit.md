@@ -4,4 +4,6 @@
 
 **Role:** Engineer
 
-**Objective:** Learn the command line 
+**Objective:** Learn the command line
+
+**Favorite vacation spot:** Goa 
