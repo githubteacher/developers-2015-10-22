@@ -6,4 +6,4 @@
 
 **Objective:**  To learn more about workflow strategies
 
-**Favorite Vacation Spot:** Portland
+**Favorite Vacation Spot:** Portland, Maine
