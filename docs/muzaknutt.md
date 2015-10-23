@@ -2,6 +2,6 @@
 
 **Name:** Muzak Nutt
 
-**Role:** Student
+**Role:** Student - Day 1 & Day 2
 
 **Objective:** Understand git flow cycles and all this merge and pointer to head stuff.
