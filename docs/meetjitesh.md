@@ -4,4 +4,6 @@
 
 **Role** : Systems Engineer
 
-**Goal** : To learn Github 
+**Goal** : To learn Github
+
+**Favroite Vacation spot** : Goa 
