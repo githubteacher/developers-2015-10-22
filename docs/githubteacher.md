@@ -5,3 +5,5 @@
 **Title:**  Teacher
 
 **Objective:**  To learn more about workflow strategies
+
+**Favorite Vacation Spot:** Portland
