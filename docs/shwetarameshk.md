@@ -6,4 +6,4 @@
 
 *Objective:* Learn about branches and merging into main branch
 
-*Favorite Vacation Spot:* Hawaii
+*Favorite Vacation Spot:* Hawaii, US
