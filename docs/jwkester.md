@@ -8,3 +8,5 @@
 - Keep local repositories in sync with GitHub
 - Manage forks effectively
 - Manage pull requests effectively
+
+**Favorite Vacation Spot:** Berlin, Germany, not Berlin, Pennsylvania
