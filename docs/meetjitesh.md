@@ -6,4 +6,4 @@
 
 **Goal** : To learn Github
 
-**Favroite Vacation spot** : Goa 
+**Favroite Vacation spot** : Goa, India
