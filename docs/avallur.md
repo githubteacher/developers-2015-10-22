@@ -6,4 +6,4 @@
 
 **Goal:** *Learn more about github flows, and how they apply to what I work on*
 
-**Some other info:** *answer*
+**Some other info:** *answer+detail*
