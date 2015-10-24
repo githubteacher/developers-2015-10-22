@@ -1,5 +1,5 @@
 Hello, this is github sample
 Date: 10/25/2015
 abc master yes
-added text in master file
+sample test data
 
